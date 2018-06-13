@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="phone_hint">phone</string>
+    <string name="yellow">GO TO NEXT</string>
+    <string name="Generico">Generico</string>
+    <string name="Gen">Welcome</string>
+    <string name="Welcome">Welcome</string>
+</resources>
